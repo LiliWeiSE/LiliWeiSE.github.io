@@ -588,7 +588,7 @@ section.news.text-center h4 {
 }
 /* contact */
 .wedo {
-    padding: 8em 0;
+    padding: 3em 0;
     background: #303030;
 }
 .contact_grid_right input[type="text"], .contact_grid_right input[type="email"], .contact_grid_right textarea {
