@@ -250,7 +250,9 @@ li > a:only-child:after {
     content: '';
 }
 
-
+ol li b {
+    font-weight: 700;
+}
 /* Media Queries
 --------------------------------------------- */
 
